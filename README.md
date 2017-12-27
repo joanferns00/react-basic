@@ -1,2 +1,2 @@
 # react-basic
-Baisc React application with webpack and babel
+Basic React application with webpack and babel. Used storybook for a living style guide
