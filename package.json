@@ -1,7 +1,7 @@
 {
   "name": "react-basic",
   "version": "1.0.0",
-  "description": "A basic react application using webpack and babel",
+  "description": "A basic react application using webpack and babel using tutorial https://stanko.github.io/webpack-babel-react-revisited/",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
